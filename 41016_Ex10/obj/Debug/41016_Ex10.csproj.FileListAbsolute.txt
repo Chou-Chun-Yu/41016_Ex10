@@ -1,0 +1,9 @@
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\bin\Debug\41016_Ex10.exe.config
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\obj\Debug\41016_Ex10.csprojResolveAssemblyReference.cache
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\obj\Debug\_41016_Ex10.Form1.resources
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\obj\Debug\_41016_Ex10.Properties.Resources.resources
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\obj\Debug\41016_Ex10.csproj.GenerateResource.Cache
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\bin\Debug\41016_Ex10.exe
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\bin\Debug\41016_Ex10.pdb
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\obj\Debug\41016_Ex10.exe
+C:\Users\B1F01\Desktop\41016_Ex10\41016_Ex10\obj\Debug\41016_Ex10.pdb
