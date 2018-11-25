@@ -1,7 +1,5 @@
-﻿namespace _41016_Ex10
-{
-    partial class Form1
-    {
+﻿namespace _41016_Ex10 {
+    partial class Form1 {
         /// <summary>
         /// 設計工具所需的變數。
         /// </summary>
@@ -11,10 +9,8 @@
         /// 清除任何使用中的資源。
         /// </summary>
         /// <param name="disposing">如果應該處置 Managed 資源則為 true，否則為 false。</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
+        protected override void Dispose(bool disposing) {
+            if (disposing && (components != null)) {
                 components.Dispose();
             }
             base.Dispose(disposing);
@@ -26,8 +22,7 @@
         /// 此為設計工具支援所需的方法 - 請勿使用程式碼編輯器
         /// 修改這個方法的內容。
         /// </summary>
-        private void InitializeComponent()
-        {
+        public void InitializeComponent() {
             this.Lb_id = new System.Windows.Forms.Label();
             this.Tb_id = new System.Windows.Forms.TextBox();
             this.Tb_name = new System.Windows.Forms.TextBox();
@@ -162,7 +157,7 @@
             this.Bt_search.TabIndex = 13;
             this.Bt_search.Text = "查詢";
             this.Bt_search.UseVisualStyleBackColor = true;
-            this.Bt_search.Click += new System.EventHandler(this.Bt_search_Click);
+            this.Bt_search.Click += new System.EventHandler(Search.Bt_search_Click);
             // 
             // Bt_sort
             // 
@@ -204,21 +199,20 @@
 
         #endregion
 
-        private System.Windows.Forms.Label Lb_id;
-        private System.Windows.Forms.TextBox Tb_id;
-        private System.Windows.Forms.TextBox Tb_name;
-        private System.Windows.Forms.Label Lb_name;
-        private System.Windows.Forms.TextBox Tb_Chi;
-        private System.Windows.Forms.Label Lb_Chi;
-        private System.Windows.Forms.TextBox Tb_Eng;
-        private System.Windows.Forms.Label Lb_Eng;
-        private System.Windows.Forms.TextBox Tb_Math;
-        private System.Windows.Forms.Label Lb_Math;
-        private System.Windows.Forms.TextBox Tb_total;
-        private System.Windows.Forms.Label Lb_total;
-        private System.Windows.Forms.TextBox Tb_show;
-        private System.Windows.Forms.Button Bt_search;
-        private System.Windows.Forms.Button Bt_sort;
+        internal System.Windows.Forms.Label Lb_id;
+        internal System.Windows.Forms.TextBox Tb_id;
+        internal System.Windows.Forms.TextBox Tb_name;
+        internal System.Windows.Forms.Label Lb_name;
+        internal System.Windows.Forms.TextBox Tb_Chi;
+        internal System.Windows.Forms.Label Lb_Chi;
+        internal System.Windows.Forms.TextBox Tb_Eng;
+        internal System.Windows.Forms.Label Lb_Eng;
+        internal System.Windows.Forms.TextBox Tb_Math;
+        internal System.Windows.Forms.Label Lb_Math;
+        internal System.Windows.Forms.TextBox Tb_total;
+        internal System.Windows.Forms.Label Lb_total;
+        internal System.Windows.Forms.TextBox Tb_show;
+        internal System.Windows.Forms.Button Bt_search;
+        internal System.Windows.Forms.Button Bt_sort;
     }
 }
-
